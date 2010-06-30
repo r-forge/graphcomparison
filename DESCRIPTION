@@ -1,0 +1,13 @@
+Package: GraphComparison
+Type: Package
+Title: GRAPHical COMPARISON of Graphs with the same node-set
+Version: 1.0.1
+Date: 2010-05-19
+Author: Khadija El Amrani
+Maintainer: Khadija El Amrani <ben4508@ibe.med.uni-muenchen.de>
+Description: The graphical comparison of graphs with less than 60 nodes can be
+             helpful to demonstrate the similarities and differences between these
+             graphs.
+License: GPL (>= 2)
+LazyLoad: yes
+
